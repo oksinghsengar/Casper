@@ -4,8 +4,8 @@ WEATHER API
 website :  https://openweathermap.org/api
 
 username : CASPER
-email: casper22ai@gmail.com
-password: hindichinibhaibhai
+email: helloteam@gmail.com
+password: helloteam-
 
 API key : 82e63eebeec824b5190ee711c909ae22
 
@@ -25,8 +25,8 @@ Website: https://newsapi.org/
 website :  https://openweathermap.org/api
 
 username : CASPER
-email: casper22ai@gmail.com
-password: hindichinibhaibhai
+email: helloteam@gmail.com
+password: helloteam-
 
 API key : 409f42d2ab274f1d8ed645f4ca77b03c
 
