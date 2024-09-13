@@ -289,7 +289,7 @@ if __name__ == "__main__": # syntax to write a main function in python
                 text2speech()
             ########    
             elif 'open code' in query: #like this you can add more apps that you want to add
-                codepath = 'C:\\Users\\kamya\\AppData\\Local\\Programs\\Microsoft VS Code\\code.exe'
+                codepath = 'C:\\Users\\omkar\\AppData\\Local\\Programs\\Microsoft VS Code\\code.exe'
                 os.startfile(codepath)
             
             elif 'open' in query:
@@ -299,7 +299,7 @@ if __name__ == "__main__": # syntax to write a main function in python
             
             
             elif 'open zoom' in query: #like this you can add more apps that you want to add
-                codepath = 'C:\\Users\\kamya\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe'
+                codepath = 'C:\\Users\\omkar\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe'
                 os.startfile(codepath) 
                 
             elif 'joke' in query:
